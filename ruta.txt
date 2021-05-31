@@ -2,4 +2,4 @@ i start my learning path with SQL for interview
 
 after next learning MySQL with platzi
 
-i need finish
+i need finish whit git
