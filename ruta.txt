@@ -1,3 +1,5 @@
 i start my learning path with SQL for interview
 
 after next learning MySQL whith platzi
+
+i need finish
